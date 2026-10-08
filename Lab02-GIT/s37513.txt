@@ -1,1 +1,1 @@
-Name:{Arseniy Stenko}  University:PJATK  Student id:{s37513}  Hello from the branch
+Name:{Arseniy Stenko}  University:PJATK  Student id:{s37513} 
